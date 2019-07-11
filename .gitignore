@@ -1,0 +1,26 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+/build/
+/logs/
+### 自定义 ###
+*.log
+
+# 个人配置文件
+conf/application-me.yml
+conf/log4j2-me.xml
