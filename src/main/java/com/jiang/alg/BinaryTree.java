@@ -52,4 +52,14 @@ public class BinaryTree {
         return null;
     }
 
+    /**
+     * 上下翻转二叉树
+     *
+     *
+     * 
+     */
+    public void reverseBinaryTree(){
+
+    }
+
 }
