@@ -6,14 +6,7 @@ import java.util.Map;
 public class BinaryTree {
 
     public static void main(String[] args) {
-        // 先练习二叉树相关的算法题 ..222 333；；；；
-        // afaf ;;;as
-        // 先练习二叉树相关的算法题 ..222 333；；；； 大萨达
-        // 先练习二叉树相关的算法题 ..222 333；；；； sada
-        // 先练习二叉树相关的算法题 ..222 333；；；；  aaaa   bbb
-        // 先练习二叉树相关的算法题 ..222 333；；；；  aaaa vvv
     }
-
     /**
      * 使用hash表记录数据，单链表能够降低时间复杂度
      * @param nums
